@@ -1,0 +1,16 @@
+PODS:
+  - TPKeyboardAvoiding-Extend (1.3.1.2)
+
+DEPENDENCIES:
+  - TPKeyboardAvoiding-Extend
+
+SPEC REPOS:
+  trunk:
+    - TPKeyboardAvoiding-Extend
+
+SPEC CHECKSUMS:
+  TPKeyboardAvoiding-Extend: 71515171a47e43413dee56a7822fdaf18b1a5a3e
+
+PODFILE CHECKSUM: 1938c5b86050ee4d04f151974bc1efdacd1713ac
+
+COCOAPODS: 1.10.1

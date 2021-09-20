@@ -1,0 +1,6 @@
+framework module TPKeyboardAvoiding_Extend {
+  umbrella header "TPKeyboardAvoiding-Extend-umbrella.h"
+
+  export *
+  module * { export * }
+}
